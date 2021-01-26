@@ -1,3 +1,7 @@
 Everything is Awesome!
 Indeed all is Awesome!
+<<<<<<< HEAD
 Yes they are always awesome
+=======
+However some times not 
+>>>>>>> b55a401768ea0c3345dbbf9a96201f2a006289d5
